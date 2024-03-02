@@ -1,0 +1,14 @@
+C:\Users\danuz\OneDrive\Desktop\CLS\obj\Debug\net8.0\CLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danuz\OneDrive\Desktop\CLS\obj\Debug\net8.0\CLS.AssemblyInfoInputs.cache
+C:\Users\danuz\OneDrive\Desktop\CLS\obj\Debug\net8.0\CLS.AssemblyInfo.cs
+C:\Users\danuz\OneDrive\Desktop\CLS\obj\Debug\net8.0\CLS.csproj.CoreCompileInputs.cache
+C:\Users\danuz\OneDrive\Desktop\CLS\bin\Debug\net8.0\CLS.exe
+C:\Users\danuz\OneDrive\Desktop\CLS\bin\Debug\net8.0\CLS.deps.json
+C:\Users\danuz\OneDrive\Desktop\CLS\bin\Debug\net8.0\CLS.runtimeconfig.json
+C:\Users\danuz\OneDrive\Desktop\CLS\bin\Debug\net8.0\CLS.dll
+C:\Users\danuz\OneDrive\Desktop\CLS\bin\Debug\net8.0\CLS.pdb
+C:\Users\danuz\OneDrive\Desktop\CLS\obj\Debug\net8.0\CLS.dll
+C:\Users\danuz\OneDrive\Desktop\CLS\obj\Debug\net8.0\refint\CLS.dll
+C:\Users\danuz\OneDrive\Desktop\CLS\obj\Debug\net8.0\CLS.pdb
+C:\Users\danuz\OneDrive\Desktop\CLS\obj\Debug\net8.0\CLS.genruntimeconfig.cache
+C:\Users\danuz\OneDrive\Desktop\CLS\obj\Debug\net8.0\ref\CLS.dll
